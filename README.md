@@ -28,9 +28,9 @@ This application allows users view their entire employee directory at once so th
 
 ## Installation
 
-git clone: git@github.com:Michaelcrowderjr1/employeedirectory.git
-Run npm start
-Open http://localhost:3000 to view it in the browser.
+1. git clone: git@github.com:Michaelcrowderjr1/employeedirectory.git
+2. Run npm start
+3. Open http://localhost:3000 to view it in the browser.
 
 ### Built with
 * Javascript
