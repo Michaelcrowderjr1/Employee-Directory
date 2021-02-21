@@ -15,11 +15,7 @@
 
 ## Description
 
-This a React app that lets the user view a list of employees, search for a specific employee, and sort the employees by either name, phone, email or DOB. When you search for an employee it will immediately give the user a result and clicking on the table header will sort the employees either in ascending or descending order.
-
-This project had the following criteria:
-
-Utilizing this app, the user will be able to search and sort a list of employees. 
+This application allows users view their entire employee directory at once so they have quick access to their information. Its React functionality lets the user view a list of employees, search for a specific employee, and sort the employees by either name, phone, email or DOB. When you search for an employee it will immediately give the user a result.
 
 <p>&nbsp;<p>
 
@@ -33,11 +29,9 @@ Utilizing this app, the user will be able to search and sort a list of employees
 
 ## Installation
 
-To install dependencies when executing on localhost, run the following:
-
-```
-npm i
-```
+git clone: git@github.com:Michaelcrowderjr1/employeedirectory.git
+Run npm start
+Open http://localhost:3000 to view it in the browser.
 
 ### Built with
 * Javascript
@@ -51,18 +45,13 @@ npm i
 
 ## Usage
 
-To run on localhost:
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name. Given a table of random users, when the user loads the page, a table of employees will render. The user will be able to:
 
-```
-npm start
-```
+Sort the table by at least one category.
+Filter the users by at least one property.
 
 ### Github Link
 [Employee Directory Github Link](https://michaelcrowderjr1.github.io/Employee-Directory/)
-
-1. Navigate to https://drclever.github.io/Employee-Directory/ or http://localhost:3000
-2. Enter name (first or last).  The user will see the table start to filter.
-3. Click on table heading (Name, Phone, Email, DOB).  The user will see that the table is sorted by that heading ascending or descending.  Please note:  Clicking on Name heading will sort the Name by last name.
 
 
 ### Sample Screenshot
