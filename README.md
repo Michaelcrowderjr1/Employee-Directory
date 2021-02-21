@@ -55,7 +55,7 @@ Filter the users by at least one property.
 
 
 ### Screenshot
-<img src="https://github.com/Michaelcrowderjr1/Employee-Directory/blob/main/Budget-Trackers.PNG?raw=true">
+<img src="https://github.com/Michaelcrowderjr1/Employee-Directory/blob/main/Employee%20Directory.PNG?raw=true">
 
 
 <p>&nbsp;<p>
