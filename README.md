@@ -50,7 +50,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 * Filter the users by at least one property.
 
 ### Github Link
-[Employee Directory Github Link](https://michaelcrowderjr1.github.io/Employee-Directory/)
+[Employee-Directory Github Link](https://michaelcrowderjr1.github.io/Employee-Directory/)
 
 
 ### Screenshot
