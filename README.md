@@ -54,8 +54,8 @@ Filter the users by at least one property.
 [Employee Directory Github Link](https://michaelcrowderjr1.github.io/Employee-Directory/)
 
 
-### Sample Screenshot
-![Employee Directory Image](./EmployeeDirectoryImage.PNG)
+### Screenshot
+<img src="https://github.com/Michaelcrowderjr1/Employee-Directory/blob/main/Budget-Trackers.PNG?raw=true">
 
 
 <p>&nbsp;<p>
