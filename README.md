@@ -46,8 +46,8 @@ This application allows users view their entire employee directory at once so th
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name. Given a table of random users, when the user loads the page, a table of employees will render. The user will be able to:
 
-Sort the table by at least one category.
-Filter the users by at least one property.
+* Sort the table by at least one category.
+* Filter the users by at least one property.
 
 ### Github Link
 [Employee Directory Github Link](https://michaelcrowderjr1.github.io/Employee-Directory/)
